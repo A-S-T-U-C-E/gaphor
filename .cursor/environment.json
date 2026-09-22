@@ -1,0 +1,8 @@
+{
+  "name": "Gaphor",
+  "user": "ubuntu",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "install": "./.cursor/install.sh"
+}
